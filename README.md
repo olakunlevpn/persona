@@ -15,8 +15,6 @@ git clone https://github.com/olakunlevpn/persona
 cd persona
 py -3 -m venv .venv
 .venv\Scripts\activate
-pip install -r requirements.txt
-python app.py
 ```
 
 ## Install requirements using pip
