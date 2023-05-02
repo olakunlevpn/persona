@@ -1,5 +1,8 @@
 # Persona portfolio website
 
+![Persona Demo](./Screenshot.png)
+
+
 ## Features
 - Tailwinds framework
 - Limited custom css/js
