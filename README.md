@@ -1,7 +1,10 @@
+# Persona portfolio website
+
 ## Features
 - Tailwinds framework
 - Limited custom css/js
 - Easily customizable
+- Macros components
 - More features coming soon..
 
 ## Prerequisites
@@ -28,3 +31,8 @@ Now you will have your code running on http://127.0.0.1:5000
 
 ## Contributing
 Please take a look at our [contributing](https://github.com/olakunlevpn/persona/CONTRIBUTING.md) guidelines if you're interested in helping!
+
+
+## Note 
+
+This project is for educational purposes and not for production use. 
