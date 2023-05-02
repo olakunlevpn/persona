@@ -33,7 +33,7 @@ Now you will have your code running on http://127.0.0.1:5000
 
 
 ## Contributing
-Please take a look at our [contributing](https://github.com/olakunlevpn/persona/CONTRIBUTING.md) guidelines if you're interested in helping!
+Please take a look at our [contributing](https://github.com/olakunlevpn/persona/blob/main/CONTRIBUTING.md) guidelines if you're interested in helping!
 
 
 ## Note 
